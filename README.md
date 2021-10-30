@@ -1,2 +1,2 @@
 # maratona SBC
- Códigos do treinamento para a maratona SBC
+ Códigos feitos para a maratona SBC
